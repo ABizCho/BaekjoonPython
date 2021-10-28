@@ -1,4 +1,4 @@
 language = "python3"
-run = "python for11_10871_lowerThanX.py"
+run = "python list1dim3_nOfNum.py"
 
 

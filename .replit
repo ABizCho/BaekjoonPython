@@ -1,4 +1,4 @@
 language = "python3"
-run = "python list1dim3_nOfNum.py"
+run = "python list1dim7_overMean.py"
 
 

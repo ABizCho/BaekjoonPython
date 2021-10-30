@@ -1,4 +1,4 @@
 language = "python3"
-run = "python func3_1065_hansu.py"
+run = "python string3_10809_findAlphabet.py"
 
 

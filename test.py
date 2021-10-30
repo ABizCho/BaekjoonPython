@@ -1,4 +1,4 @@
-numList= []
-numList.extend(map(int,range(10)))
+a = 100
 
-print(numList)
+lista = list(str(a))
+print(lista)

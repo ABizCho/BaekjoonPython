@@ -1,4 +1,4 @@
 language = "python3"
-run = "python string3_10809_findAlphabet.py"
+run = "python string10_1316_groupWord.py"
 
 

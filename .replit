@@ -1,4 +1,2 @@
 language = "python3"
-run = "python math8_10757_AB.py"
-
-
+run = "python ./level9_recursive/recursive1_factorial.py"

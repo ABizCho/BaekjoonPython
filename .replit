@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./level9_recursive/recursive1_factorial.py"
+run = "python stack_parenthesis.py"
